@@ -3,4 +3,4 @@ ENV name="vijay" \
     place="dallas" \
     state="texas"
 
-CMD["sleep","500"]    
+CMD ["sleep","500"]    
